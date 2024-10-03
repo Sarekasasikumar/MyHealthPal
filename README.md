@@ -25,3 +25,9 @@ MyHealthPal is a web application designed to provide personalized healthcare rec
 - **Database**: (Specify the database if used, e.g., SQLite, PostgreSQL)
 
 
+## Usage Instructions
+
+1. Open the application in your web browser.
+2. Enter the symptoms you are experiencing in the input field.
+3. Click the "Predict" button to receive tailored healthcare recommendations.
+4. Review the information provided in the modal for further details about each prediction.
