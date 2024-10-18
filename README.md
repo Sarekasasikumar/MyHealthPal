@@ -22,7 +22,7 @@ MyHealthPal is a web application designed to provide personalized healthcare rec
 - **Frontend**: HTML, CSS, Bootstrap
 - **Backend**: Flask (Python)
 - **Machine Learning**: Utilizes a machine learning model for disease prediction (specifics can be included here if needed).
-- **Database**: (Specify the database if used, e.g., SQLite, PostgreSQL)
+  
 
 
 ## Usage Instructions
